@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Растягивает текст песни на весь экран и скрывает плеер Apple Music
+// @updateURL    https://github.com/AmilicK/Genius-Fullwidth-Hide-Apple-Music-Player/edit/main/Genius%20Fullwidth%20%26%20Hide%20Apple%20Music%20Player.js
+// @downloadURL  https://github.com/AmilicK/Genius-Fullwidth-Hide-Apple-Music-Player/edit/main/Genius%20Fullwidth%20%26%20Hide%20Apple%20Music%20Player.js
 // @match        https://genius.com/*
 // @grant        GM_addStyle
 // @run-at       document-start
